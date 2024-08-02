@@ -23,10 +23,16 @@ Tested ML models:
 
 More information on the criteria of the choice of the ML methods is found in chapter 3 (Modelling) of the report [here](https://github.com/Statistic-Kevin/Credit-Applicant-Classification/Report.pdf).
 
+                                                                                                                                                Modelling Phases
+<p align="left">
+<img src="Images//Modelling_Phases.PNG" width="700"/>
 
+                                                                                                                      ROC Curves for all selected models 
 
-![alt text](https://github.com/Statistic-Kevin/Credit-Applicant-Classification/Images/Modelling_Phases.PNG)
+<p align="center">
+<img src="Images//ROCcurves for all selected models.jpg" width="700"/>
 
-![alt text](https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Images/Confusion%20matrix.png)
-
-![alt text](https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Images/Confusion%20matrix%20-%20random%20forest.png)
+                                                                                                                      Distributions of Predictions on Test Set by Actual Response
+                                                              
+<p align="right">
+<img src="Images//Distributions of predictions on test set, by actual response.jpg" width="700"/>
