@@ -1,14 +1,14 @@
-# Credit Applicant lassification
+# Credit Applicant Classification
 
 <p align="center">
-<img src="https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Images/main.jpg" width="1300"/>
+<img src="Images/7553752-abgelehntes-und-genehmigtes-kredit-oder-darlehensformular-mit-klemmbrett-und-anspruchsformular-darauf-vektor.jpg" width="1300"/>
 </p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/aritzLizoain/Credit-applicant-classification)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aritzLizoain/Credit-applicant-classification)
-[![](https://tokei.rs/b1/github/aritzLizoain/Credit-applicant-classification?category=lines)](https://github.com/aritzLizoain/Credit-applicant-classification) 
-![GitHub Repo stars](https://img.shields.io/github/stars/aritzLizoain/Credit-applicant-classification?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/aritzLizoain/Credit-applicant-classification?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Statistic-Kevin/Credit-Applicant-Classification)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Statistic-Kevin/Credit-Applicant-Classification)
+[![](https://tokei.rs/b1/github/Statistic-Kevin/Credit-Applicant-Classification?category=lines)](https://github.com/Statistic-Kevin/Credit-Applicant-Classification) 
+![GitHub Repo stars](https://img.shields.io/github/stars/Statistic-Kevin/Credit-Applicant-Classification?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Statistic-Kevin/Credit-Applicant-Classification?style=social)
 
 ## :credit_card: Classifying credit applicants [[Presentation]](https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Presentation.pdf)[[Report]](https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Report.pdf)
 
