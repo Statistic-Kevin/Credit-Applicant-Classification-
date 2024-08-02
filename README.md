@@ -10,7 +10,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Statistic-Kevin/Credit-Applicant-Classification?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Statistic-Kevin/Credit-Applicant-Classification?style=social)
 
-## :credit_card: Classifying credit applicants [[Presentation]](https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Presentation.pdf)[[Report]](https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Report.pdf)
+## :credit_card: Classifying credit applicants [[Presentation]](https://github.com/Statistic-Kevin/Credit-Applicant-Classification/Presentation.pdf)[[Report]](https://github.com/Statistic-Kevin/Credit-Applicant-Classification/Report.pdf)
 
 The goal of this project is to set up a model to classify credit applicants according to their credit risk (good vs bad), based on a dataset of applicants in the German bank. 
 The model could be used by banks to support their credit decisions. Since the goal of of this project is to produce accurate predictions, models are not chosen based on their interpretability or ability to conduct 
@@ -21,7 +21,8 @@ Tested ML models:
 * Non-parametric (Multivariate Adaptive Regression Splines)
 * Tree- based Ensemble Methods ( Random Forest and Bayesian Additive Regression Trees)
 
-More information and criteria of the choice of the ML methods is found in chapter 3 (Modelling) of the report.
+More information and criteria of the choice of the ML methods is found in chapter 3 (Modelling) of the report [here](https://github.com/Statistic-Kevin/Credit-Applicant-Classification/Report.pdf).
+
 
 
 ![alt text](https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Images/Flowchart.png)
