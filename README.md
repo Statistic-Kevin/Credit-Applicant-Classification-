@@ -21,11 +21,11 @@ Tested ML models:
 * Non-parametric (Multivariate Adaptive Regression Splines)
 * Tree- based Ensemble Methods ( Random Forest and Bayesian Additive Regression Trees)
 
-More information and criteria of the choice of the ML methods is found in chapter 3 (Modelling) of the report [here](https://github.com/Statistic-Kevin/Credit-Applicant-Classification/Report.pdf).
+More information on the criteria of the choice of the ML methods is found in chapter 3 (Modelling) of the report [here](https://github.com/Statistic-Kevin/Credit-Applicant-Classification/Report.pdf).
 
 
 
-![alt text](https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Images/Flowchart.png)
+![alt text](https://github.com/Statistic-Kevin/Credit-Applicant-Classification/Images/Modelling_Phases.PNG)
 
 ![alt text](https://github.com/aritzLizoain/Credit-applicant-classification/blob/main/Images/Confusion%20matrix.png)
 
