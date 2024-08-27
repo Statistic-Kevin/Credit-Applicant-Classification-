@@ -98,16 +98,7 @@ explan <- c("max. number of terms before pruning", "max. degree of interaction",
 grids <- c("10-60", "1-3", "0.09-0.99", "0.05-4.05", "0-1", "(-25)-0", "1-30", "1-30")
 
 
-# create tables for the final document
-htbl <- data.frame(
-  model = mods, hyperparameter = hyppars, explanation=explan, range=grids, package = engs) 
 
-htbl %>% kbl(booktabs = T, caption = "Decription of hyperparameters and tuning grids",
-             format = "latex", linesep = "") %>%
-  kable_styling(font_size=9.5, latex_options = "hold_position") %>% 
-  column_spec(column = 2, italic = T) %>%
-  column_spec(column = 5, italic = T) %>%
-  kable_paper(full_width = F)
 
 # test/train split & CV----
 set.seed(457)
